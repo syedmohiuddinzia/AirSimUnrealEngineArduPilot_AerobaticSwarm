@@ -1,0 +1,15 @@
+vehicle 1
+mode LAND
+
+vehicle 2
+mode LAND
+
+vehicle 3
+mode LAND
+
+vehicle 4
+mode LAND
+
+vehicle 5
+mode LAND
+

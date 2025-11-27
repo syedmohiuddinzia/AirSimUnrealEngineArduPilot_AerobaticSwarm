@@ -1,0 +1,15 @@
+vehicle 1
+guided -35.363261 149.165230 5
+
+vehicle 2
+guided -35.363279 149.165253 5
+
+vehicle 3
+guided -35.363279 149.165208 5
+
+vehicle 4
+guided -35.363296 149.165275 5
+
+vehicle 5
+guided -35.363296 149.165185 5
+

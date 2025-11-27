@@ -1,0 +1,25 @@
+# Drone 1
+vehicle 1
+mode GUIDED
+arm throttle force
+
+# Drone 2
+vehicle 2
+mode GUIDED
+arm throttle force
+
+# Drone 3
+vehicle 3
+mode GUIDED
+arm throttle force
+
+# Drone 4
+vehicle 4
+mode GUIDED
+arm throttle force
+
+# Drone 5
+vehicle 5
+mode GUIDED
+arm throttle force
+

@@ -1,0 +1,22 @@
+# https://community.cesium.com/t/camera-field-of-view-does-not-affect-3d-tiles-level-of-detail/15805
+
+# Drone 1
+vehicle 1
+takeoff 20
+
+# Drone 2
+vehicle 2
+takeoff 20
+
+# Drone 3
+vehicle 3
+takeoff 20
+
+# Drone 4
+vehicle 4
+takeoff 20
+
+# Drone 5
+vehicle 5
+takeoff 20
+
